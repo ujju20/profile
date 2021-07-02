@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/ujjawal-sharma-3b4009195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjawal-sharma-3b4009195" height="30" width="40" /></a>
 <a href="https://kaggle.com/ujjawalsharma20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ujjawalsharma20" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ujju2020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ujju2020" height="30" width="40" style="color:white;"/></a>
- <a href="https://dev.to/ujju20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ujju2020" height="30" width="40" style="color:white;"/></a>
+ <a href="https://dev.to/ujju20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ujju2020" height="30" width="40" style="background-color:white;"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
